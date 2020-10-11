@@ -1,2 +1,2 @@
-# CS-Courses
+# USTC-Courses
 some useful resources of cs courses at USTC
